@@ -1,5 +1,4 @@
 # Xcode
-.DS_Store
 build/
 *.pbxuser
 !default.pbxuser
@@ -18,3 +17,9 @@ DerivedData
 .idea/
 Pods/
 Podfile.lock
+xcuserdata/
+profile
+*.moved-aside
+
+## Ignore incredibly annoying .DS_Store files
+.DS_Store
